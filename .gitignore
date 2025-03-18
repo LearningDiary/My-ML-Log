@@ -1,0 +1,20 @@
+# idea
+.idea
+.idea/
+*.iml
+.DS_Store
+**/.DS_Store
+
+# gitlab ci
+.cache
+**/bin/
+web/
+#vscode
+.vscode
+.vscode/
+
+# swagger files
+swagger/*.json
+
+# logs
+scripts/
